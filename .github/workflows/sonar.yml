@@ -24,4 +24,4 @@ jobs:
 
         with:
           args: >
-            -Dsonar.organization=Habib0905
+            -Dsonar.organization=habib0905
